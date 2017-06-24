@@ -1,0 +1,1 @@
+This is a component with Bootstrap-solution for sticky footer.
